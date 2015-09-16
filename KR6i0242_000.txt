@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 禪行法想經
+#+DATE: 2015-08-30 20:13:45.900527
+#+PROPERTY: JUAN 0
