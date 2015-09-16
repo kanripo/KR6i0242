@@ -1,26 +1,25 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:45.716127
+#+DATE: 2015-08-30 20:13:46.101948
 #+TITLE: 禪行法想經
 #+PROPERTY: CBETA_ID T15n0605
 #+PROPERTY: ID KR6i0242
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 605
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@YUAN
 #+PROPERTY: LASTPB <pb:KR6i0242_T_000-0181b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0242_T_001-0181b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.605¶
-
- 《禪行法想經》¶
+No. 605¶
+《禪行法想經》¶
 ¶
-後漢安息國三藏安世高譯¶
+後漢三藏安世高譯¶
 
 聞如是：
 
-一時，佛遊於舍衛祇樹給孤獨園。佛¶
+一時，佛遊於舍衛國祇樹給孤獨園。佛¶
 告：「諸比丘！」比丘受教，從佛而聽。
 
 佛言：「諸比丘！¶
