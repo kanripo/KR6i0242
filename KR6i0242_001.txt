@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:46.101948
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 9:01
 #+TITLE: 禪行法想經
 #+PROPERTY: CBETA_ID T15n0605
 #+PROPERTY: ID KR6i0242
